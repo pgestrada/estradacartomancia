@@ -1,6 +1,6 @@
 
     
-        background-image: url('[https://media.istockphoto.com/id/174655938/pt/foto/fundo-rosa.jpg?s=612x612&w=0&k=20&c=JfUEdGm3Z16Bthp1m_UPG27y_ENHKcLqlsJnjrYrW4A=]');
+        background-image: url('[[https://media.istockphoto.com/id/174655938/pt/foto/fundo-rosa.jpg?s=612x612&w=0&k=20&c=JfUEdGm3Z16Bthp1m_UPG27y_ENHKcLqlsJnjrYrW4A=](https://media.istockphoto.com/id/688387642/pt/foto/rose-background.jpg?s=612x612&w=0&k=20&c=L-O0fxFap7RMGMEbG3KAWX_tIKml0DQ5NInm4MCISLI=)]');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -116,8 +116,8 @@ Entre em contato para agendar sua consulta e começar a desvendar a estrada da s
 </p>
 
 <p style="text-align: center; font-size: 1.2em;">
-* **Telefone/WhatsApp:** <a href="tel:[https://wa.me/554799001369]" style="color: #FFD700;">
-* **Instagram/Rede Social:** <a href="[https://www.instagram.com/aishadoya?igsh=YXdtZXowdXV6dXM3]" target="_blank" style="color: #FFD700;">
+Telefone/WhatsApp: 47 99900-1369 <a href="tel:[https://wa.me/554799001369]" style="color: #FFD700;">
+Instagram: @Aishadoya <a href="[https://www.instagram.com/aishadoya?igsh=YXdtZXowdXV6dXM3]" target="_blank" style="color: #FFD700;">
 </p>
 
 </div>
