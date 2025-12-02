@@ -1,7 +1,7 @@
 
     
         background-image: url('[[https://media.istockphoto.com/id/174655938/pt/foto/fundo-rosa.jpg?s=612x612&w=0&k=20&c=JfUEdGm3Z16Bthp1m_UPG27y_ENHKcLqlsJnjrYrW4A=](https://media.istockphoto.com/id/688387642/pt/foto/rose-background.jpg?s=612x612&w=0&k=20&c=L-O0fxFap7RMGMEbG3KAWX_tIKml0DQ5NInm4MCISLI=)]');
-        background-size: cover;
+
         background-repeat: no-repeat;
         background-attachment: fixed;
         color: #FFD700;
