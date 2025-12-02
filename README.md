@@ -1,36 +1,30 @@
-<style>
-    /* Estilo para o corpo principal: Fundo Florido, cores Vermelho, Dourado e Preto */
-    body {
-        background-image: url('[LINK_DA_IMAGEM_DE_FUNDO_AQUI]'); /* Substitua pelo link da sua imagem */
-        background-size: cover; /* Ajusta a imagem para cobrir toda a área */
-        background-repeat: no-repeat;
-        background-attachment: fixed; /* Fixa a imagem durante a rolagem */
-        color: #FFD700; /* Texto principal em Dourado (Gold) */
-        font-family: 'Georgia', serif;
-        text-shadow: 1px 1px 2px #000000; /* Sombra para o texto dourado se destacar no fundo */
-    }
 
-    /* Estilo para o Conteúdo - um container para melhorar a leitura */
-    .container {
+    
+        background-image: url('[https://media.istockphoto.com/id/174655938/pt/foto/fundo-rosa.jpg?s=612x612&w=0&k=20&c=JfUEdGm3Z16Bthp1m_UPG27y_ENHKcLqlsJnjrYrW4A=]');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        color: #FFD700;
+        font-family: 'Georgia', serif;
+        text-shadow: 1px 1px 2px #000000;
+    
         max-width: 900px;
         margin: 50px auto;
         padding: 30px;
-        background-color: rgba(0, 0, 0, 0.75); /* Fundo preto semi-transparente */
-        border: 4px solid #B8860B; /* Borda em Dourado Escuro (DarkGoldenrod) */
+        background-color: rgba(0, 0, 0, 0.75);
+        border: 4px solid #B8860B;
         border-radius: 15px;
-        box-shadow: 0 0 20px rgba(255, 0, 0, 0.5); /* Sombra externa em Vermelho */
-    }
+        box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
 
-    /* Estilo para cabeçalhos */
     h1, h2, h3 {
-        color: #FF0000; /* Títulos em Vermelho Vibrante */
+        color: #FF0000;
         text-align: center;
-        border-bottom: 2px solid #FFD700; /* Linha divisória Dourada */
+        border-bottom: 2px solid #FFD700;
         padding-bottom: 10px;
         margin-bottom: 25px;
     }
 
-    /* Estilo para links (contato) */
+
     a {
         color: #FFD700; /* Links em Dourado */
         text-decoration: none;
@@ -38,11 +32,11 @@
     }
 
     a:hover {
-        color: #FFFFFF; /* Links brancos ao passar o mouse */
+        color: #FFFFFF; /*
         text-decoration: underline;
     }
     
-    /* Estilo para a Tabela */
+
     table {
         width: 100%;
         border-collapse: collapse;
@@ -50,7 +44,7 @@
     }
 
     th, td {
-        background-color: rgba(40, 0, 0, 0.8); /* Fundo da célula em Vermelho Escuro/Preto */
+        background-color: rgba(40, 0, 0, 0.8);
         padding: 12px;
         border: 1px solid #B8860B;
         text-align: left;
@@ -122,9 +116,8 @@ Entre em contato para agendar sua consulta e começar a desvendar a estrada da s
 </p>
 
 <p style="text-align: center; font-size: 1.2em;">
-* **Telefone/WhatsApp:** <a href="tel:[SEU_NUMERO_DE_CONTATO_AQUI]" style="color: #FFD700;">[SEU NÚMERO DE CONTATO AQUI]</a>
-* **E-mail:** <a href="mailto:[SEU_EMAIL_AQUI]" style="color: #FFD700;">[SEU E-MAIL AQUI]</a>
-* **Instagram/Rede Social:** <a href="[LINK_DO_SEU_PERFIL]" target="_blank" style="color: #FFD700;">[SEU PERFIL AQUI]</a>
+* **Telefone/WhatsApp:** <a href="tel:[https://wa.me/554799001369]" style="color: #FFD700;">
+* **Instagram/Rede Social:** <a href="[https://www.instagram.com/aishadoya?igsh=YXdtZXowdXV6dXM3]" target="_blank" style="color: #FFD700;">
 </p>
 
 </div>
